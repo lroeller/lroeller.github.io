@@ -8,6 +8,7 @@
 .navbar * {
   color: black;
   font-weight: bold;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 .page-header {
@@ -15,6 +16,12 @@
   vertical-align: middle;
   font-family: 'Cookie', cursive;
   padding-left: 15px;
+  color: #191970;
+}
+
+.sub-header {
+  font-family: 'Cookie', cursive;
+  font-size: 4em;
   color: #191970;
 }
 
@@ -52,12 +59,12 @@ footer {
 
 .media-heading {
   font-family: 'Cookie', cursive;
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
 p {
 	font-size: 1.5em;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 .media > .media-left > a > img {
